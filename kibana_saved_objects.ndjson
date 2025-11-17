@@ -1,0 +1,2 @@
+{"type": "index-pattern", "id": "finops-efficiency", "attributes": {"title": "finops-efficiency*", "timeFieldName": "@timestamp"}}
+{"type": "dashboard", "id": "finops-efficiency-dashboard", "attributes": {"title": "FinOps \u2014 Custo x Uso", "description": "Dashboard FinOps completo para Elasticsearch", "panelsJSON": "[]", "optionsJSON": "{}", "version": 1, "timeRestore": false}}
